@@ -1,4 +1,4 @@
-## CIS 285 - Midterm 
+## CIS 285 - Midterm Review
 
 ## Description
 A simple Java file that I used to familiarize myself with GitHub and its commands. I used the Push, Pull, and Commit commands. 
